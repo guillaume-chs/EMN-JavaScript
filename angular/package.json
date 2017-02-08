@@ -1,0 +1,15 @@
+{
+    "name": "getstarted",
+    "version": "1.0.0",
+    "description": "première application avec Angular",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "author": "Guillaume Chanson <guillaume.chns@gmail.com>",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.14.1"
+    }
+}

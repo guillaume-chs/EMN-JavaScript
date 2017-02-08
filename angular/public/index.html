@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+
+<html lang="fr" ng-app="ContactApp">
+
+<head>
+    <title>Ma première application</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.9/angular.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.9/angular-route.min.js"></script>
+    <script src="app.js"></script>
+    <script src="routes.js"></script>
+    <script src="services.js"></script>
+    <script src="controllers.js"></script>
+</head>
+
+<body>
+    <em ng-show="loading">Chargement ...</em>
+    <div ng-view></div>
+</body>
+
+</html>
