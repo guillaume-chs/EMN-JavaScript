@@ -1,0 +1,66 @@
+{
+    "messages": {
+        "589b19d502ed86e96efee091": {
+            "589b1ac7dbb61695848ece5d": {
+                "_id": "589b1ac7dbb61695848ece5d",
+                "sender": "Corina",
+                "text": "Laboris minim occaecat commodo amet tempor consequat ipsum pariatur irure voluptate enim ut.",
+                "sentDate": "Sun Oct 14 2012 12:48:28 GMT+0200 (CEST)"
+            },
+            "589b1aed74d3d3376ec60f83": {
+                "_id": "589b1aed74d3d3376ec60f83",
+                "sender": "Krista",
+                "text": "Sit ullamco non non quis aute proident ullamco quis adipisicing.",
+                "sentDate": "Wed Feb 01 2012 10:26:40 GMT+0100 (CET)"
+            },
+            "589b1aed8d2dff7b051aebc3": {
+                "_id": "589b1aed8d2dff7b051aebc3",
+                "sender": "Katy",
+                "text": "Dolor sunt tempor Lorem eu.",
+                "sentDate": "Tue Dec 27 1977 03:17:52 GMT+0100 (CET)"
+            }
+        },
+
+        "589b19d51d078b254f28ea3e": {
+            "589b1ac7dbb61695848ece5d": {
+                "_id": "589b1ac7dbb61695848ece5d",
+                "sender": "Corina",
+                "text": "Laboris minim occaecat commodo amet tempor consequat ipsum pariatur irure voluptate enim ut.",
+                "sentDate": "Sun Oct 14 2012 12:48:28 GMT+0200 (CEST)"
+            },
+            "589b1aed74d3d3376ec60f83": {
+                "_id": "589b1aed74d3d3376ec60f83",
+                "sender": "Krista",
+                "text": "Sit ullamco non non quis aute proident ullamco quis adipisicing.",
+                "sentDate": "Wed Feb 01 2012 10:26:40 GMT+0100 (CET)"
+            },
+            "589b1aed8d2dff7b051aebc3": {
+                "_id": "589b1aed8d2dff7b051aebc3",
+                "sender": "Katy",
+                "text": "Dolor sunt tempor Lorem eu.",
+                "sentDate": "Tue Dec 27 1977 03:17:52 GMT+0100 (CET)"
+            }
+        },
+
+        "589b19d598d75b2e4101c4cc": {
+            "589b1ac7dbb61695848ece5d": {
+                "_id": "589b1ac7dbb61695848ece5d",
+                "sender": "Corina",
+                "text": "Laboris minim occaecat commodo amet tempor consequat ipsum pariatur irure voluptate enim ut.",
+                "sentDate": "Sun Oct 14 2012 12:48:28 GMT+0200 (CEST)"
+            },
+            "589b1aed74d3d3376ec60f83": {
+                "_id": "589b1aed74d3d3376ec60f83",
+                "sender": "Krista",
+                "text": "Sit ullamco non non quis aute proident ullamco quis adipisicing.",
+                "sentDate": "Wed Feb 01 2012 10:26:40 GMT+0100 (CET)"
+            },
+            "589b1aed8d2dff7b051aebc3": {
+                "_id": "589b1aed8d2dff7b051aebc3",
+                "sender": "Katy",
+                "text": "Dolor sunt tempor Lorem eu.",
+                "sentDate": "Tue Dec 27 1977 03:17:52 GMT+0100 (CET)"
+            }
+        }
+    }
+}

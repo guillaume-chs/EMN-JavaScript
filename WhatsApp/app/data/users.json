@@ -1,0 +1,22 @@
+{
+    "users": {
+        "589b18e964637abe5950074c": {
+            "_id": "589b18e964637abe5950074c",
+            "firstName": "Lowe",
+            "lastName": "Levine",
+            "email": "levinecoffey@comvene.com"
+        },
+        "589b18e94bfc246a43666ab4": {
+            "_id": "589b18e94bfc246a43666ab4",
+            "firstName": "Katina",
+            "lastName": "Short",
+            "email": "shortcoffey@comvene.com"
+        },
+        "589b18e9d6d6dca4ae40a89b": {
+            "_id": "589b18e9d6d6dca4ae40a89b",
+            "firstName": "Paul",
+            "lastName": "Clements",
+            "email": "clementscoffey@comvene.com"
+        }
+    }
+}

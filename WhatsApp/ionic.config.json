@@ -1,4 +1,5 @@
 {
-  "name": "WhatsApp",
-  "app_id": ""
+    "name": "WhatsApp",
+    "app_id": "",
+    "documentRoot": "app"
 }

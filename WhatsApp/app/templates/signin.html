@@ -1,0 +1,24 @@
+<ion-view view-title="Connexion">
+    <ion-content class="hasHeader">
+        <div class="card">
+            <div class="list card">
+                <form name="signInForm" ng-submit="signIn()" novalidate>
+                    <label class="item item-input item-stacked-label">
+                        <span class="input-label">Email</span>
+                        <input type="email" ng-model="data.email"  placeholder="mail@exemple.com">
+                    </label>
+                    <label class="item item-input item-stacked-label">
+                        <span class="input-label">Mot de passe</span>
+                        <input type="password" ng-model="data.password">
+                    </label>
+                    <div>
+                        <button class="button button-full button-positive" type="submit">Connexion</button>
+                    </div>
+                    <div>
+                        <a href="#/inscription"><button class="button button-full">S'inscrire</button></a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </ion-content>
+</ion-view>

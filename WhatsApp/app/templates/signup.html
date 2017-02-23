@@ -1,0 +1,28 @@
+<ion-view view-title="Inscription">
+    <ion-content>
+        <form name="signUpForm" ng-submit="signUp()" novalidate>
+            <div class="list card">
+                <label for="firstName" class="item item-input">
+                    Nom de famille :
+                    <input id="firstName" type="text" name="firstName" ng-model="account.firstName" class="item">
+                </label>
+                <label for="lastName" class="item item-input">
+                    Nom de famille :
+                    <input id="lastName" type="text" name="lastName" ng-model="account.lastName" class="item">
+                </label>
+                <label for="email" class="item item-input">
+                    Email :
+                    <input id="email" type="email" name="email" ng-model="account.email" placeholder="mail@exemple.com" class="item">
+                </label>
+                <label for="password" class="item item-input">
+                    Password :
+                    <input id="password" type="password" name="password" ng-model="account.password" placeholder="1234" class="item">
+                </label>
+            </div>
+            <div class="text-center list card">
+                <button class="button button-block button-stable" type="submit" ng-disabled="isFormValid()">
+                    S'inscrire
+                </button>
+            </div>
+        </form>
+    </ion-content>

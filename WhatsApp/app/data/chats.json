@@ -1,0 +1,35 @@
+{
+    "chats": {
+        "589b19d502ed86e96efee091": {
+            "_id": "589b19d502ed86e96efee091",
+            "name": "Ochoa",
+            "description": "Mollit do proident incididunt dolore exercitation incididunt consequat exercitation do cupidatat officia.",
+            "creationDate": "1486568314410",
+            "participants": [
+                "589b18e964637abe5950074c",
+                "589b18e94bfc246a43666ab4"
+            ]
+        },
+        "589b19d598d75b2e4101c4cc": {
+            "_id": "589b19d598d75b2e4101c4cc",
+            "name": "Johnnie",
+            "description": "Esse fugiat deserunt culpa excepteur reprehenderit labore dolore ullamco duis.",
+            "creationDate": "1486548314410",
+            "participants": [
+                "589b18e94bfc246a43666ab4",
+                "589b18e9d6d6dca4ae40a89b"
+            ]
+        },
+        "589b19d51d078b254f28ea3e": {
+            "_id": "589b19d51d078b254f28ea3e",
+            "name": "Mcmahon",
+            "description": "Tempor elit esse velit anim adipisicing adipisicing elit excepteur quis consectetur Lorem amet pariatur.",
+            "creationDate": "1486598314410",
+            "participants": [
+                "589b18e964637abe5950074c",
+                "589b18e94bfc246a43666ab4",
+                "589b18e9d6d6dca4ae40a89b"
+            ]
+        }
+    }
+}
